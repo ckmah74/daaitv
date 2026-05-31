@@ -1,0 +1,6 @@
+{
+  "name": "DAAI TV Android TV Client",
+  "description": "An Android TV style web application for streaming DAAI TV, switching channels, navigating programs, and getting real-time program updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
